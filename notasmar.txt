@@ -1,0 +1,3 @@
+desde carperta programacion martina poara abri visual
+cmd 
+code espacio . 
